@@ -1,4 +1,4 @@
-#HW1 mnist classification
+# HW1 mnist classification
 
 ## A. Warmup (hw_mnist)
 Решите задачу Warmup (hw_fmnist) репозитории в папке homeworks/hw01_classification. После решения задачи классификации сгенерируйте посылку и загрузите в данную задачу submission_dict_mnist_task_1.json. 
