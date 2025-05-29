@@ -10,5 +10,5 @@
 
 Внимание! Ваш код не должен использовать внешних библиотек кроме numpy.
 
-## D. Homography mapping
+## C. Homography mapping
 Завершите ноутбук из репозитория — папка homeworks/hw03_panorama. Пройдите Шаг 6 и сдайте файл h_dict.json в контест.
